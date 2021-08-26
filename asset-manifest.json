@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/firestoreCompleto/static/js/main.8d746ad9.chunk.js",
+    "main.js.map": "/firestoreCompleto/static/js/main.8d746ad9.chunk.js.map",
+    "runtime-main.js": "/firestoreCompleto/static/js/runtime-main.2f3db59a.js",
+    "runtime-main.js.map": "/firestoreCompleto/static/js/runtime-main.2f3db59a.js.map",
+    "static/js/2.fef9d301.chunk.js": "/firestoreCompleto/static/js/2.fef9d301.chunk.js",
+    "static/js/2.fef9d301.chunk.js.map": "/firestoreCompleto/static/js/2.fef9d301.chunk.js.map",
+    "index.html": "/firestoreCompleto/index.html",
+    "static/js/2.fef9d301.chunk.js.LICENSE.txt": "/firestoreCompleto/static/js/2.fef9d301.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3db59a.js",
+    "static/js/2.fef9d301.chunk.js",
+    "static/js/main.8d746ad9.chunk.js"
+  ]
+}
